@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmadouDiatta13, I'm a geniticist.
+- 👋 Hi, I’m @AmadouDiatta13, I'm a geneticist.
 - 👀 I’m interested in app programming and machine learning 
 - 🌱 I’m currently learning python
 - 📫 How to reach me amadou13.diatta@gmail.com
